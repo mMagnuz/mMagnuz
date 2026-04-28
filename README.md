@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Matheus Lourenço Spinosi, tenho 19 anos e sou natural de Piracicaba - SP. Concluí o ensino médio na ETEC, com o curso técnico em Análise e Desenvolvimento de Sistemas e tive contato com diversas linguagens de programação, como: HTML, CSS, JS, PHP, MySQL, C#, Java e contato com APIs. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
+Me chamo Matheus Lourenço Spinosi, tenho 19 anos e sou natural de Piracicaba - SP. Concluí o ensino médio na ETEC, com o curso técnico em Análise e Desenvolvimento de Sistemas e tive contato com diversas linguagens de programação, como: HTML, CSS, JS, PHP, MySQL, C#, Java e com APIs. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
 
 <p align="left">
 
