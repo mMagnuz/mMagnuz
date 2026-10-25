@@ -4,9 +4,9 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e atualmente foco meus estudos em desenvolvimento FullStack.
 
-Tenho experiência prática com React, JavaScript, Java, Phyton, MySQL, PostgreSQL e prototipação UI/UX utilizando o Figma. Busco constantemente transformar teoria em projetos reais, desenvolvendo aplicações para praticar responsividade, componentização, estilização, otimização e experiência do usuário.
+Tenho experiência prática com React, JavaScript, Java + Spring, Phyton, MySQL, PostgreSQL, Git e prototipação UI/UX utilizando o Figma. Busco constantemente transformar teoria em projetos reais, desenvolvendo aplicações para praticar responsividade, componentização, estilização, otimização e experiência do usuário.
 
-Atualmente estou aprofundando meus conhecimentos em React e Java, enquanto aprimoro minha lógica de programação e boas práticas de desenvolvimento.
+Atualmente estou aprofundando meus conhecimentos em React e Java + Spring, enquanto aprimoro minha lógica de programação e boas práticas de desenvolvimento.
 
 Busco minha primeira oportunidade de estágio na área de desenvolvimento para evoluir tecnicamente, colaborar em projetos reais e crescer profissionalmente como desenvolvedor.
 
